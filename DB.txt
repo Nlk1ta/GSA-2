@@ -1,0 +1,7 @@
+Kia Rio Red 2017 Full HatchBeg Normal 0 1 0 1 0 
+Renault Logan Blue 2018 Standart Sidan Hight 0 1 1 0 0 
+Tayota Corolla Silver 2015 Normal Sidan Normal 0 0 1 0 0 
+Nissan Juke Black 2013 Standart HatchBeg Low 0 1 1 0 0 
+Mazda x6 Red 2020 Full Sidan Hight 1 0 0 0 1
+Nissan Qashqai Blue 2015 Normal HatchBeg Normal 0 0 1 1 0 
+Tayota Vitz Black 2010 Standart HatchBeg Low 0 1 1 0 0 0 
